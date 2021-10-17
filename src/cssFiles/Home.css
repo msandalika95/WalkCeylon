@@ -1,0 +1,180 @@
+.each-slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 550px;
+    background-size: 100% 100%;
+  }
+  
+  .each-slide span {
+    padding: 5px;
+    font-size: 20px;
+    background: #aee0e2;
+    text-align: center;
+    opacity: 0.8;
+    border-radius: 5px;
+  }
+
+  .split {
+    width: 100%;
+    color: white;
+  }
+  
+  .left {
+    width: 50%;
+    float:left;
+  }
+
+  .right {
+    width: 50%;
+    float: right;
+  }
+
+  .map {
+    width: 300px;
+    height: 400px;
+  }
+
+  .home2 {
+    text-align: center;
+  }
+
+  .maphead {
+    font-size: 25px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+  }
+
+  .deshead {
+    font-size: 60px;
+   
+  }
+
+  .split2 {
+    width: 100%;
+    color: white;
+  }
+
+  .left2 {
+    width: 50%;
+    float:left;
+    text-align: center;
+  }
+
+  .right2 {
+    width: 50%;
+    float: right;
+    text-align: center;
+  }
+
+  .beach {
+    width: 600px;
+    height: 300px;
+  }
+
+  .food {
+    width: 300px;
+    height: 350px;
+  }
+
+  .split3 {
+    width: 100%;
+    color: white;
+  }
+
+  .left3 {
+    width: 50%;
+    float:left;
+    text-align: center;
+  }
+
+  .right3 {
+    width: 50%;
+    float: right;
+    text-align: center;
+  }
+
+  .sea {
+    width: 600px;
+    height: 300px;
+  }
+
+  .animals {
+    width: 100%;
+  }
+
+  .aniLeft {
+    width: 25%;
+    float:left;
+
+  }
+
+  .aniRight {
+    margin-left: 320px;
+    
+  }
+
+  .ani1 {
+    width: 350px;
+    height: 400px;
+  }
+  .ani2 {
+    width: 280px;
+    height: 400px;
+    margin-bottom: 20px;
+  }
+
+  .rea1 {
+    margin-top: 50px;
+  }
+
+  .headfood {
+    margin-top: 50px;
+  }
+
+  .headbeach {
+    margin-top: 50px;
+  }
+
+
+  .split4 {
+    width: 100%;
+    color: white;
+  }
+
+  .left4 {
+    width: 50%;
+    float:left;
+    text-align: center;
+  }
+
+  .right4 {
+    width: 50%;
+    float: right;
+    text-align: center;
+  }
+
+.monk {
+  width: 95%;
+}
+  
+  
+.each-slide1 > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 350px;
+  background-size: 100% 100%;
+}
+
+.top {
+  margin-top: 13px;
+}
+
+.sun {
+  width: 95%;
+  height: 280px;
+ 
+}
